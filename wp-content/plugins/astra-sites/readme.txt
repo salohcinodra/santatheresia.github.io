@@ -4,8 +4,8 @@ Donate link: https://wpastra.com/pro/
 Tags: Elementor,Beaver Builder,Templates,Gutenberg,Block Editor,Astra Starter Sites
 Requires at least: 4.4
 Requires PHP: 5.3
-Tested up to: 6.3
-Stable tag: 3.4.0
+Tested up to: 6.3.1
+Stable tag: 3.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -134,6 +134,17 @@ We are open to suggestions and would love to work on topics that our users are l
 8. Free Images by Pixabay right inside the WordPress media popup.
 
 == Changelog ==
+
+v3.4.3 - 26-September-2023
+- Fix: Fixed a fatal error issue with widgets import in the process.
+
+v3.4.2 - 20-September-2023
+- Fix: Plugin causes redirect URL related warnings with WP CLI plugin activate command.
+
+v3.4.1 - 13-September-2023
+- Improvement: Improved the Starter Template Modal for users using Elementor in Dark Mode.
+- Fix: Addressed broken links and alignment issues in the welcome banner, especially on different resolutions.
+- Fix: Fixed the issue of displaying HTML Markup in the notice when a block is not found in Elementor.
 
 v3.4.0 - 11-August-2023
 - New: Added SureCart variation for every eCommerce based template.
@@ -571,7 +582,7 @@ v2.2.4 - 04-May-2020
 - Fix: Changed user permissions for a few actions.
 
 v2.2.3 - 29-April-2020
-- Fix: Handled duplicate data being imported due to Imagick image editor.
+- Fix: Handled duplicate data being imported due to Imagick image editor.
 
 v2.2.2 - 22-April-2020
 - Improvement: Added missing slash to the website preview URL.

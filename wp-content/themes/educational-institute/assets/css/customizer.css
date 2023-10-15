@@ -1,0 +1,13 @@
+.control-section-elearning-education h3.accordion-section-title {
+    color: #f14d5d !important;
+    border: 2px solid #f14d5d !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+a.button.button-secondary.alignright{
+    background: #120f2d;
+}
+a.button.button-secondary.alignright {
+    padding: 0 6px;
+    margin-top: -5px;
+}

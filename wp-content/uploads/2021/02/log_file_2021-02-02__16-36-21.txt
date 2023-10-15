@@ -1,0 +1,23 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://demo.idtheme.com/wpberita
+Data file = /home/idthemec/domains/idtheme.com/public_html/demo/wpberita/wp-content/uploads/2021/02/demo-content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

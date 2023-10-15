@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://santatheresiadepok.sch.id
+Data file = /home/sann1794/public_html/wp-content/themes/wpberita/inc/demo-data/demo-content.xml
+Widget file = /home/sann1794/public_html/wp-content/themes/wpberita/inc/demo-data/widgets.json
+Customizer file = /home/sann1794/public_html/wp-content/themes/wpberita/inc/demo-data/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+HTML Khusus - No Title - Imported
+Pos Terbaru (WpBerita) - Berita Terbaru - Imported
+Widget Populer Tag (WpBerita) - Popular Tags - Imported
+Pos Terbaru (WpBerita) - Berita Olahraga - Imported
+Pos Terbaru (WpBerita) - Berita Kriminal - Imported
+Pos Terbaru (WpBerita) - Otomotif - Imported
+Pos Populer (Wpberita) - Popular Post - Imported
+
+Module 1 : 
+
+Module Pos (Wpberita) - Olahraga Terbaru - Imported
+
+Module 2 : 
+
+Module Pos (Wpberita) - Berita Terbaru - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
